@@ -13,3 +13,5 @@ The website was built in html, css and javascript that allows user to retrieve t
   <li> Python flask for http server </li>
   <li> HTML/CSS/Javascript for UI </li>
 </ol>
+
+Dataset Used : https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
